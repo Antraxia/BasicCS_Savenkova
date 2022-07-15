@@ -4,7 +4,7 @@ int N,M;
  System.Console.WriteLine("Введите число: ");
  string a=Console.ReadLine();
  N=Convert.ToInt32(a);
- M=-System.Math.Abs(N);
+ M=-N;
 
  while (M<=N);
  
