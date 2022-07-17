@@ -5,19 +5,23 @@ int x=Convert.ToInt32(Console.ReadLine());
 System.Console.Write("и y: ");
 int y=Convert.ToInt32(Console.ReadLine());
 
-if (x>=0 && y>=0)
+if (x>0 && y>0)
 {
     System.Console.WriteLine("Это первая четверть");
 }
-else if (x<=0 && y>=0)
+else if (x<0 && y>0)
 {
     System.Console.WriteLine("Это вторая четверть");
 }
-else if (x<=0 && y<=0)
+else if (x<0 && y<0)
 {
     System.Console.WriteLine("Это четвертая четверть");
 }
+else if (x>0 && y<0)
+{
+    System.Console.WriteLine("Это третья четверть");
+}
 else
 {
-    System.Console.WriteLine("Это Третья четверть");
+    System.Console.WriteLine("Точка находится на оси координат");
 }
