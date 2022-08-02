@@ -1,0 +1,15 @@
+/Users/mary/Desktop/seminarCS/BasicCS_Savenkova/030/bin/Debug/net6.0/030
+/Users/mary/Desktop/seminarCS/BasicCS_Savenkova/030/bin/Debug/net6.0/030.deps.json
+/Users/mary/Desktop/seminarCS/BasicCS_Savenkova/030/bin/Debug/net6.0/030.runtimeconfig.json
+/Users/mary/Desktop/seminarCS/BasicCS_Savenkova/030/bin/Debug/net6.0/030.dll
+/Users/mary/Desktop/seminarCS/BasicCS_Savenkova/030/bin/Debug/net6.0/030.pdb
+/Users/mary/Desktop/seminarCS/BasicCS_Savenkova/030/obj/Debug/net6.0/030.csproj.AssemblyReference.cache
+/Users/mary/Desktop/seminarCS/BasicCS_Savenkova/030/obj/Debug/net6.0/030.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mary/Desktop/seminarCS/BasicCS_Savenkova/030/obj/Debug/net6.0/030.AssemblyInfoInputs.cache
+/Users/mary/Desktop/seminarCS/BasicCS_Savenkova/030/obj/Debug/net6.0/030.AssemblyInfo.cs
+/Users/mary/Desktop/seminarCS/BasicCS_Savenkova/030/obj/Debug/net6.0/030.csproj.CoreCompileInputs.cache
+/Users/mary/Desktop/seminarCS/BasicCS_Savenkova/030/obj/Debug/net6.0/030.dll
+/Users/mary/Desktop/seminarCS/BasicCS_Savenkova/030/obj/Debug/net6.0/refint/030.dll
+/Users/mary/Desktop/seminarCS/BasicCS_Savenkova/030/obj/Debug/net6.0/030.pdb
+/Users/mary/Desktop/seminarCS/BasicCS_Savenkova/030/obj/Debug/net6.0/030.genruntimeconfig.cache
+/Users/mary/Desktop/seminarCS/BasicCS_Savenkova/030/obj/Debug/net6.0/ref/030.dll
