@@ -1,0 +1,15 @@
+E:\BasicCS_Savenkova\039\bin\Debug\net6.0\039.exe
+E:\BasicCS_Savenkova\039\bin\Debug\net6.0\039.deps.json
+E:\BasicCS_Savenkova\039\bin\Debug\net6.0\039.runtimeconfig.json
+E:\BasicCS_Savenkova\039\bin\Debug\net6.0\039.dll
+E:\BasicCS_Savenkova\039\bin\Debug\net6.0\039.pdb
+E:\BasicCS_Savenkova\039\obj\Debug\net6.0\039.csproj.AssemblyReference.cache
+E:\BasicCS_Savenkova\039\obj\Debug\net6.0\039.GeneratedMSBuildEditorConfig.editorconfig
+E:\BasicCS_Savenkova\039\obj\Debug\net6.0\039.AssemblyInfoInputs.cache
+E:\BasicCS_Savenkova\039\obj\Debug\net6.0\039.AssemblyInfo.cs
+E:\BasicCS_Savenkova\039\obj\Debug\net6.0\039.csproj.CoreCompileInputs.cache
+E:\BasicCS_Savenkova\039\obj\Debug\net6.0\039.dll
+E:\BasicCS_Savenkova\039\obj\Debug\net6.0\refint\039.dll
+E:\BasicCS_Savenkova\039\obj\Debug\net6.0\039.pdb
+E:\BasicCS_Savenkova\039\obj\Debug\net6.0\039.genruntimeconfig.cache
+E:\BasicCS_Savenkova\039\obj\Debug\net6.0\ref\039.dll
