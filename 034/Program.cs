@@ -2,7 +2,6 @@
 
 
 int[] a;
-Random random=new Random();
 
 Init(out a,12,-9,9);
 int sumNegative,sumPositive;
