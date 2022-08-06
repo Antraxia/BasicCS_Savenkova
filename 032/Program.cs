@@ -23,12 +23,37 @@ for (int i=0;i<a.Length;i++)  //Length обращение к длине масс
 
 */
 
-int N=8;
-int[] a=new int[N];
-Random random=new Random(); //псевдослучайные числа
+
+//Инициализация переменных 
+
+int[] a;
+
+// Ввод данных
+Init(out a,8,0,100);
+
+// Обработка данных
+
+
+// Вывод результатов
+
+Print(a);
+
+
+
+
+
+void Init(out int[] a,int Length,int min, int max) // можно задать в условии константы напрмер void Init(out int[] a,int Length=10,int min=0, int max=100), тогда  при вызове достаточно указать Init(out a); если написать Init(out a,max:100) тогда при константах в функции изменится максимум конкретно при данном вызове 
+{
+     a=new int[Length];
+     Random random=new Random(); //псевдослучайные числа
+
 for (int i=0;i<a.Length;i++) // Length обращение к длине массива
-     a[i]=random.Next(0,100);
+     a[i]=random.Next(min,max+1);
+}
 
+
+void Print(int[] a)
+{
     for (int i=0;i<a.Length;i++)
-    System.Console.WriteLine($"{a[i],4}"); 
-
+    System.Console.WriteLine($"{a[i],4}");  
+}
