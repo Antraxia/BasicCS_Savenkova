@@ -26,9 +26,7 @@ void Solve(int[,] a)
             if (a[i,j]%2==0) a[i,j] = -a[i,j];
         }
 
-}
-
-   
+}  
 
 void Print(int[,] a)
 {
