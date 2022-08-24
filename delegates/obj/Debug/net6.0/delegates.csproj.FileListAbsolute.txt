@@ -1,0 +1,15 @@
+E:\BasicCS_Savenkova\delegates\bin\Debug\net6.0\delegates.exe
+E:\BasicCS_Savenkova\delegates\bin\Debug\net6.0\delegates.deps.json
+E:\BasicCS_Savenkova\delegates\bin\Debug\net6.0\delegates.runtimeconfig.json
+E:\BasicCS_Savenkova\delegates\bin\Debug\net6.0\delegates.dll
+E:\BasicCS_Savenkova\delegates\bin\Debug\net6.0\delegates.pdb
+E:\BasicCS_Savenkova\delegates\obj\Debug\net6.0\delegates.csproj.AssemblyReference.cache
+E:\BasicCS_Savenkova\delegates\obj\Debug\net6.0\delegates.GeneratedMSBuildEditorConfig.editorconfig
+E:\BasicCS_Savenkova\delegates\obj\Debug\net6.0\delegates.AssemblyInfoInputs.cache
+E:\BasicCS_Savenkova\delegates\obj\Debug\net6.0\delegates.AssemblyInfo.cs
+E:\BasicCS_Savenkova\delegates\obj\Debug\net6.0\delegates.csproj.CoreCompileInputs.cache
+E:\BasicCS_Savenkova\delegates\obj\Debug\net6.0\delegates.dll
+E:\BasicCS_Savenkova\delegates\obj\Debug\net6.0\refint\delegates.dll
+E:\BasicCS_Savenkova\delegates\obj\Debug\net6.0\delegates.pdb
+E:\BasicCS_Savenkova\delegates\obj\Debug\net6.0\delegates.genruntimeconfig.cache
+E:\BasicCS_Savenkova\delegates\obj\Debug\net6.0\ref\delegates.dll
